@@ -1,0 +1,6 @@
+# debut;fin;nom
+00:01:45;00:02:45;clap-clap-hello
+00:04:15;00:05:15;whats-your-name
+00:06:45;00:07:45;fluffy-jump
+00:08:15;00:09:15;first-red-note
+00:00:00;00:00:30;generique
